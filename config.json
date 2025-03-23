@@ -1,0 +1,5 @@
+{
+    "local-whisper-model": "base",
+    "load-local-whisper-on-startup": true,
+    "openai-default-transcribe-model": "gpt-4o-mini-transcribe"
+}
